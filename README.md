@@ -1,4 +1,4 @@
-# Ng6Assignment4Copy
+# Print Odd or Even
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.3.
 
