@@ -3,6 +3,7 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppComponent } from './app.component';
 import { GameControlComponent } from './game-control/game-control.component';
+import { OddComponent } from './odd/odd.component';
 
 
 
@@ -10,6 +11,7 @@ import { GameControlComponent } from './game-control/game-control.component';
   declarations: [
     AppComponent,
     GameControlComponent,
+    OddComponent,
  
     
   ],
